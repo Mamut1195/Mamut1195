@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Mamut1195
-- 👀 I’m interested in Python for automatization tasks in programs like SAP 2000, ETABS and ArcGIS
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in learning as much as I can about the software insdutry
+- 🌱 I’m currently doing the IBM Back-End Development Professional Certificate
 
 
-<!---
-Mamut1195/Mamut1195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
